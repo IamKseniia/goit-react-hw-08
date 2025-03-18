@@ -1,0 +1,43 @@
+.form {
+  border: 1px solid black;
+  border-radius: 10px;
+  width: max-content;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  padding: 24px;
+  margin-left: 40%;
+}
+
+.label {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.spanForName {
+  font-size: 18px;
+}
+
+.input {
+  padding: 10px;
+  width: 200px;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+.button {
+  align-items: center;
+  width: 200px;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: gray;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.button:hover {
+  background-color: gray;
+}

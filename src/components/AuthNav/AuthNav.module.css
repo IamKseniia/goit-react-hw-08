@@ -1,0 +1,20 @@
+.loginButtons {
+  display: flex;
+  justify-content: flex-end;
+  gap: 24px;
+  margin-right: 24px;
+}
+
+.link {
+  font-size: 16px;
+  color: floralwhite;
+  line-height: 1;
+  font-weight: 350;
+}
+
+.activeLink {
+  color: grey;
+  font-size: 18px;
+  font-weight: 500;
+  transition: all 0.1s linear;
+}

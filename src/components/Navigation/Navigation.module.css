@@ -1,0 +1,20 @@
+.link {
+  font-size: 20px;
+  color: floralwhite;
+  line-height: 1;
+  font-weight: 350;
+  padding: 24px 24px;
+}
+
+.activeLink {
+  color: floralwhite;
+  font-weight: 500;
+  transition: all 0.1s linear;
+}
+
+.mainNav {
+  display: flex;
+  margin-left: 24px;
+  height: 70px;
+  align-items: center;
+}

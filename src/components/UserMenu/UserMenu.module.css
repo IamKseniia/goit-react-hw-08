@@ -1,0 +1,13 @@
+.buttonLogOut {
+  margin-right: 24px;
+  font-size: 18px;
+  background-color: transparent;
+  color: floralwhite;
+  border: none;
+  cursor: pointer;
+}
+
+.wrapper {
+  display: flex;
+  gap: 24px;
+}
